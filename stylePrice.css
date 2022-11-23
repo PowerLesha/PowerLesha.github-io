@@ -1,0 +1,16 @@
+body {
+  background-image: url(images/bg.jpg);
+  background-size: 120%;
+}
+
+.card {
+  border-radius: 1em;
+  text-align: centre;
+  padding: 0.5em;
+}
+.card:hover {
+  background-color: rgba(228, 220, 220, 0.884);
+}
+.card img {
+  border-radius: 50%;
+}

@@ -1,0 +1,30 @@
+.translate {
+  background: transparent;
+  border: none;
+  margin-left: 12px;
+}
+p.ukraine {
+  font-size: 0.8rem;
+}
+p.translatel {
+  font-size: 0.8rem;
+}
+
+p {
+  margin: auto;
+  margin-left: 20px;
+}
+
+body {
+  background-image: url(/images/bg3.jpg);
+  background-size: 100%;
+}
+.rounded-img {
+  width: 40%;
+  border-radius: 30%;
+  box-shadow: 0 0 10px rgba(26, 9, 9, 2);
+  padding: 0.1em;
+}
+.btn {
+  margin-bottom: 0.5em;
+}
