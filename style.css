@@ -16,7 +16,7 @@ p {
 }
 
 body {
-  background-image: url(/images/bg3.jpg);
+  background-image: url(images/bg3.jpg);
   background-size: 100%;
 }
 .rounded-img {
